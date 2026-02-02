@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 serial_time = 342.3532180786133  # sec
 parallel_times = {
-    2: 215.94809222221375,
+    2: 243.82911086082458,
     4: 227.26946568489075
 }
 
